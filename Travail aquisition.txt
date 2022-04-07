@@ -1,0 +1,3 @@
+1) programme C - terminal 
+2) programme C# - fenêtre
+3) programme Linux  : Raseberry ----> Python ou C 

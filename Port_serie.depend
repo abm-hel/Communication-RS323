@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1583407959 source:c:\users\adilb\desktop\port_serie\main.c
+	<windows.h>
+	<stdio.h>
+
